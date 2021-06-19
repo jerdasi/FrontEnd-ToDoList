@@ -5,7 +5,7 @@
   &nbsp
   <router-link to="/user">Halaman User</router-link>
   <router-view></router-view>
-  <h1>Tes</h1>
+  
 </template>
 
 <script setup>

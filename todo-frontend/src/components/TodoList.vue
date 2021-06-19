@@ -1,6 +1,6 @@
 <template>
   <div>
-    <h1>Selamat Datang</h1>
+    <h1>To-Do List</h1>
     <ul>
       <li v-for="item in todos" :key="item._id">
         {{ item.description }}
